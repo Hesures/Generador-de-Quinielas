@@ -1,0 +1,27 @@
+
+button {
+    background-color: #cc1517;
+    color: white;
+    border: #cc1517;
+}
+
+div {
+text-align: center;
+}
+
+.logo {
+    width: 20%;
+}
+
+.field-container {
+    padding: 3% 7%;
+}
+
+.field1, .field2, .field3, .field4, .field5 {
+    margin: 2% 1%;
+    border: solid 0.2rem #cc1517;
+    width: 15%;
+    height: 5%;
+    display: inline-block;
+    vertical-align: baseline;
+}

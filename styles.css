@@ -1,8 +1,18 @@
 
-button {
+body {
+    background-color: #f0f0f0;
+}
+
+.btn1 {
     background-color: #cc1517;
-    color: white;
+    color: #f0f0f0;
     border: #cc1517;
+}
+
+.btn2 {
+    background-color: #098342;
+    color: #f0f0f0;
+    border: #098342;
 }
 
 div {
@@ -17,9 +27,16 @@ text-align: center;
     padding: 3% 7%;
 }
 
-.field1, .field2, .field3, .field4, .field5 {
-    margin: 2% 1%;
+.field1, .field2, .field3, .field4, .field5, .field6, .field7 {
     border: solid 0.2rem #cc1517;
+}
+
+.field8, .field9, .field10, .field11, .field12, .field13 {
+    border: solid 0.2rem #098342;
+}
+
+.div-style {
+    margin: 2% 1%;
     width: 15%;
     height: 5%;
     display: inline-block;

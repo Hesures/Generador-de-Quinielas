@@ -1,1 +1,1 @@
-# Generador-de-Quinielas
+# generador-de-loterias

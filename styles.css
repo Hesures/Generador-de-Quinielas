@@ -4,9 +4,9 @@ body {
 }
 
 .btn1 {
-    background-color: #cc1517;
+    background-color: #043f65;
     color: #f0f0f0;
-    border: #cc1517;
+    border: #043f65;
 }
 
 .btn2 {
@@ -28,7 +28,7 @@ text-align: center;
 }
 
 .field1, .field2, .field3, .field4, .field5, .field6, .field7 {
-    border: solid 0.2rem #cc1517;
+    border: solid 0.2rem #043f65;
 }
 
 .field8, .field9, .field10, .field11, .field12, .field13 {
